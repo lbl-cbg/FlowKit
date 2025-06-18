@@ -19,10 +19,10 @@ reqs = [
     'bokeh>=3.1',
     'contourpy>=1.1.0',
     'flowio>=1.3.0,<1.4',
-    'flowutils>=1.1.0,<1.2',
+    'flowutils>=1.1.0,<=1.3',
     'lxml>=4.9',
     'networkx>=3.1',
-    'numpy>=1.22,<2',
+    'numpy>=1.22',
     'pandas>=2.0',
     'psutil>=5.8',
     'scipy>=1.8'
